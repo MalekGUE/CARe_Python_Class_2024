@@ -1,0 +1,20 @@
+Sequence Name,Description,Length,GC Content (%),Molecular Weight,Type,Start Codon Found
+RNA_Sequence_1,,20,,6236.98,RNA,No
+DNA_Sequence_1,,48,50.00,14847.46,DNA,No
+RNA_Sequence_2,,25,,7745.95,RNA,No
+DNA_Sequence_2,,49,48.98,15160.67,DNA,No
+RNA_Sequence_3,,24,,7432.74,RNA,No
+DNA_Sequence_3,,49,51.02,15176.67,DNA,No
+RNA_Sequence_4,,48,,14689.34,RNA,Yes
+DNA_Sequence_4,,48,50.00,14847.46,DNA,No
+RNA_Sequence_5,,21,,6547.17,RNA,No
+DNA_Sequence_5,,48,50.00,14847.46,DNA,No
+RNA_Sequence_6,,49,,15160.67,RNA,No
+DNA_Sequence_6,,48,,14847.46,RNA,No
+RNA_Sequence_7,,48,,14838.45,RNA,No
+DNA_Sequence_7,,48,,14847.46,RNA,No
+RNA_Sequence_8,,48,,14847.46,RNA,No
+DNA_Sequence_8,,49,,15160.67,RNA,No
+RNA_Sequence_9,,48,,14838.45,RNA,No
+DNA_Sequence_9,,48,,14847.46,RNA,No
+RNA_Sequence_10,,49,,15150.67,RNA,No
